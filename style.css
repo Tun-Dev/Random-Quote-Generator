@@ -61,17 +61,20 @@ body{
 
 @media  only screen and (max-width:400px){
     body{
-        height: 1000px;
+        height: 815px;
         background-position: center;
+        margin: 0;
+        padding: 0;
+
     }
 
     .quote{
         font-size: 25px;
-        width: 400px;
-        top: 50%;
+        width: 280px;
+        top: 40%;
     }
 
     .button{
-        margin-top: 500px;
+        margin-top: 300px;
     }
 }
